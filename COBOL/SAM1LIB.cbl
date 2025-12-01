@@ -6,7 +6,7 @@
       * OR DISCLOSURE RESTRICTED BY GSA ADP SCHEDULE
       * CONTRACT WITH IBM CORPORATION
       ****************************************************************
-      * PROGRAM:  SAM1
+      * PROGRAM:  SAM1B
       *
       * AUTHOR :  Doug Stout
       *
